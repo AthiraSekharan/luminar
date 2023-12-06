@@ -39,9 +39,10 @@ text-align-last:justify;
   height: 736px;
 } */
 .button{
-  width: 45%;
+  width: 55%;
   text-align: center;
 height: 50px;
+font-size:smaller;
 }
 h1{
   font-size:xx-small;
@@ -54,5 +55,8 @@ p{
   flex-wrap: wrap;
   display: flex;
   text-align:initial;
+}
+#carouselExampleDark{
+  height: 550px;
 }
 }
