@@ -80,4 +80,13 @@ p{
 .col-lg-4{
   width: 100%;
 }
+.rr1{
+width: 100%;
+}
+.butt{
+  width: 55%;
+  text-align: center;
+height: 50px;
+font-size:smaller;
+}
 }
