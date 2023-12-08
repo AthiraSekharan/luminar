@@ -62,14 +62,14 @@ text-align-last:justify;
 height: 50px;
 font-size:smaller;
 }
-h1{
-  font-size:xx-small;
+.h11{
+  font-size:200%;
   
   flex-wrap: wrap;
   display: flex;
 }
-p{
-  font-size:1%;
+.p1{
+  font-size:100%;
   flex-wrap: wrap;
   display: flex;
   text-align:initial;
@@ -92,4 +92,15 @@ font-size:smaller;
 .p1{
   width: 100%;
 }
+
+.n1{
+  height: 120px;
+  width: 100%;
+}
+.p12{
+  text-align: right;
+  height: 40px;
+  width: 75px;
+}
+
 }
