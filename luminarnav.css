@@ -81,7 +81,10 @@ transform: scale(0.995);
 .firstbar{
   background-color:rgb(90, 23, 144);
 }
-
+.lastbutt:hover{
+  background-color:rgb(90, 23, 144);
+color: white;
+}
 
 
 @media(max-width:567px){
@@ -151,5 +154,23 @@ font-size:smaller;
 }
 .c3{
   width: 100%;
+}
+.r3{
+  width: 100%;
+ padding-left: 2px;
+ text-align:justify;
+ font-size:medium;
+}
+.card-text{
+  padding-left: 2px;
+  text-align:justify;
+  font-size:medium;
+}
+.ab{
+  text-align: center;
+}
+.abc{
+  width: 100%;
+ 
 }
 }
