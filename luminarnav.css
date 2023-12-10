@@ -44,6 +44,46 @@ transform: scaleX(1);
 .r3{
   font-size: large;
 }
+/* .mrow{
+  animation-play-state: paused;
+} */
+.mrow:hover{
+box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) ;
+transform: scale(0.995);
+}
+.c1:hover{
+  box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) ;
+  transform: scale(0.995);
+  }
+.c2:hover{
+    box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) ;
+    transform: scale(0.995);
+ }
+.c3:hover{
+      box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) ;
+      transform: scale(0.995);
+ }
+.buttcard{
+  background-color:rgb(90, 23, 144);
+  height: 40px;
+  border: none;
+  color: white;
+  
+}
+.lastbutt{
+ 
+  border-radius: 30px;
+  height: 50px;
+  border: 2px solid rgb(90, 23, 144);
+  color:rgb(90, 23, 144) ;
+  
+}
+.firstbar{
+  background-color:rgb(90, 23, 144);
+}
+
+
+
 @media(max-width:567px){
 /* .carousel-caption{
   text-size-adjust:0px;
@@ -97,10 +137,19 @@ font-size:smaller;
   height: 120px;
   width: 100%;
 }
-.p12{
+
+/* .p12{
   text-align: right;
   height: 40px;
   width: 75px;
+} */
+.c1{
+  width: 100%;
 }
-
+.c2{
+  width: 100%;
+}
+.c3{
+  width: 100%;
+}
 }
